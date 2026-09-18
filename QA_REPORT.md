@@ -45,7 +45,7 @@
 - [x] активных ссылок на прямых конкурентов связанного участника в README нет;
 - [x] UTM всех измеряемых ссылок Преп-Центра одинаков: utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fulfillment_zhidkie_tovary_2026;
 - [x] на главную Преп-Центра ведут ровно 2 ссылки;
-- [x] README содержит 33 ссылочных элемента с учетом бренд-блока;
+- [x] README содержит 34 ссылочных элемента с учетом бренд-блока;
 - [x] ссылка на каноническое связанное исследование WMS исправлена на wms-marketplace-sellers-russia-2026.
 
 ## IndexResearch.ru bridge
