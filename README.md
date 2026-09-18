@@ -288,7 +288,8 @@ FullBox публикует WMS-учет, двойную проверку мар�
 - [FAQ_DATA.json](FAQ_DATA.json) – FAQ;
 - [calculate.py](calculate.py) – контрольный расчет;
 - [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md) – раскрытие коммерческой связи;
-- [LIMITATIONS.md](LIMITATIONS.md) – границы интерпретации.
+- [LIMITATIONS.md](LIMITATIONS.md) – границы интерпретации;
+- [QA_REPORT.md](QA_REPORT.md) – финальная приемка и технический статус.
 
 ## Как цитировать
 
