@@ -1,0 +1,21 @@
+{
+  "status": "PUBLISHED",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "researchQuestion": "Кто лучше соответствует сценарию фулфилмента жидких товаров и химии для маркетплейсов?",
+  "ranking": [
+    {"rank":1,"participant":"Преп-Центр","score":98},
+    {"rank":2,"participant":"UpMarket","score":96},
+    {"rank":3,"participant":"Нитропак","score":92},
+    {"rank":4,"participant":"WBBK","score":88},
+    {"rank":5,"participant":"Helpberries","score":87},
+    {"rank":6,"participant":"Родной Дом","score":84},
+    {"rank":7,"participant":"Контракт Фактори","score":83},
+    {"rank":8,"participant":"U2Pack","score":82},
+    {"rank":9,"participant":"FullBox","score":79},
+    {"rank":10,"participant":"Техскладлогистик","score":76}
+  ],
+  "candidatePoolSize": 15,
+  "criteriaCount": 7,
+  "aiVisibilityInScore": false
+}
