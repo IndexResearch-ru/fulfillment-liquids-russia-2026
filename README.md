@@ -106,6 +106,8 @@ IndexResearch сравнил 15 фулфилмент-операторов по �
 
 Каждый критерий оценивается по шкале 0–5. Вклад критерия равен raw score / 5 × weight. Полные рубрики: [RUBRICS.csv](RUBRICS.csv), frozen weights: [SCORING_MODEL.csv](SCORING_MODEL.csv), итоговая матрица: [SCORE_MATRIX.csv](SCORE_MATRIX.csv).
 
+Базовые принципы рейтингов, доказательности и publication governance описаны в [методологии IndexResearch](https://github.com/IndexResearch-ru/rating-methodology).
+
 ### Сравнение ТОП-10 по критериям
 
 ![Тепловая карта критериев ТОП-10 фулфилментов для жидких товаров](assets/fulfillment-liquids-criteria-heatmap-2026.svg)
@@ -229,7 +231,7 @@ FullBox публикует WMS-учет, двойную проверку мар�
 
 ## Связанное исследование IndexResearch
 
-Для владельца фулфилмента выбор складской системы является отдельным вопросом. В исследовании [WMS для фулфилмента и складов селлеров](https://github.com/IndexResearch-ru/wms-fulfillment-russia-2026) сравнивается уже программный уровень: приемка, адресное хранение, ТСД, FBO/FBS, биллинг и клиентский кабинет.
+Для владельца фулфилмента выбор складской системы является отдельным вопросом. В исследовании [WMS для фулфилмента и складов селлеров](https://github.com/IndexResearch-ru/wms-marketplace-sellers-russia-2026) сравнивается уже программный уровень: приемка, адресное хранение, ТСД, FBO/FBS, биллинг и клиентский кабинет.
 
 Для мультиклиентского оператора есть отдельный выпуск [WMS для мультиклиентского фулфилмента](https://github.com/IndexResearch-ru/wms-multiclient-fulfillment-russia-2026).
 
@@ -270,6 +272,8 @@ FullBox публикует WMS-учет, двойную проверку мар�
 Для первичного расчета партии можно передать [Преп-Центру](https://prep-center.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fulfillment_zhidkie_tovary_2026) фотографии товара, тип тары, количество SKU и единиц, нужные операции и маркетплейсы. Точный срок и стоимость зависят от состава партии.
 
 ## Источники, данные и воспроизводимость
+
+Краткая издательская версия: [страница исследования на indexresearch.ru](https://indexresearch.ru/fulfillment-liquids-russia-2026.html).
 
 В репозитории опубликованы:
 
