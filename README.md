@@ -295,6 +295,10 @@ FullBox публикует WMS-учет, двойную проверку мар�
 - [LIMITATIONS.md](LIMITATIONS.md) – границы интерпретации;
 - [QA_REPORT.md](QA_REPORT.md) – финальная приемка и технический статус.
 
+## Связанные исследования IndexResearch
+
+- [Поставки на Wildberries по FBW (FBO)](https://github.com/IndexResearch-ru/wildberries-fbw-fulfillment-moscow-2026) — отдельный сценарий, в котором подготовленная партия жидких товаров передается на склад Wildberries.
+
 ## Как цитировать
 
 Рекомендуемая ссылка на первичную публикацию:
